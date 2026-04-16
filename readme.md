@@ -30,11 +30,11 @@
 
 | Dashboard Kasir | Scan Barcode |
 | :---: | :---: |
-| ![Cashier Dashboard](./screenshots/dashboard-kasir.png) | ![Barcode Scan](./screenshots/barcode-scan.png) |
+| ![Cashier Dashboard](https://github.com/BintangSry/kasirku-desktop/blob/main/Screenshots/dashboard-kasir.png) | ![Barcode Scan](https://github.com/BintangSry/kasirku-desktop/blob/main/Screenshots/barcode-scan.png) |
 
 | Dashboard Admin | Laporan Penjualan |
 | :---: | :---: |
-| ![Admin Dashboard](./screenshots/dashboard-admin.png) | ![Report PDF](./screenshots/report.png) |
+| ![Admin Dashboard](https://github.com/BintangSry/kasirku-desktop/blob/main/Screenshots/dashboard-admin.png) | ![Report PDF](https://github.com/BintangSry/kasirku-desktop/blob/main/Screenshots/report.png) |
 
 ---
 
